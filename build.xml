@@ -1,4 +1,4 @@
-<project name="Hello" default="test" basedir=".">
+project name="Hello" default="test" basedir=".">
   <description>
     simple example build file for hello+travis project
   </description>
